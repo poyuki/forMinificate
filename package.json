@@ -1,0 +1,8 @@
+{
+  "name": "forMinificate",
+  "version": "0.0.1",
+  "dependencies": {
+    "uglify-js": "^3.4.9",
+    "webpack": "^4.20.2"
+  }
+}
